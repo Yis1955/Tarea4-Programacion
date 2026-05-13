@@ -21,8 +21,8 @@ El sistema ofrece tres tipos de servicios principales:
 
 | Integrante     | Rol principal              |
 |----------------|---------------------------|
-| Jose Yislamer  | Coautor y Arquitecto      |
-| Ruben Dario    | Coautor y Desarrollador   |
+| Jose Yislamer  | autor y Arquitecto      |
+| Ruben Dario    | Co-autor y Desarrollador   |
 
 ---
 
